@@ -66,6 +66,7 @@
 - [CritiqueLLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation](https://arxiv.org/abs/2311.18702)
 - [PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization](https://arxiv.org/abs/2306.05087)
 - [INSTRUCTSCORE: Explainable Text Generation Evaluation with Finegrained Feedback](https://arxiv.org/abs/2305.14282)
+### [other reference](https://docs.google.com/document/d/1sXmIE6JUVjpVAGTpyqgeaoSIWK0tvT-I20-t7hzKnC0/edit?usp=sharing)
 
 ## Applications of LLM-evaluators
 - [OpinSummEval: Revisiting Automated Evaluation for Opinion Summarization](https://arxiv.org/abs/2310.18122)
