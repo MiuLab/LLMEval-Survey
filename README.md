@@ -1,29 +1,55 @@
 # LLMEval-Survey
 
-* NLP
-  * Natural language understanding
-    * Sentiment analysis
-    * Text classification
-    * Natural language inference (NLI)
-    * Semantic understanding
-    * social knowledge understanding
-  * Reasoning
-    * mathematical reasoning
-    * commonsense reasoning
-    * logical reasoning
-    * domain-specific reasoning
-  *  Natural language generation
-    * Summarization
-    * Dialogue
-    * Translation
-    * QA
-    * Sentence style transfer
-* Robustness, Ethic, Bias, Trustworthiness, Factuality, toxicity
-* Knowledge
-  *  Social Science
-  * Natural Science and Engineering
-  * Medical Applications
-* Agent Applications
+## Paper Structure
+
+* What to evaluate
+    * NLP
+      * Natural language generation (程)
+        * Summarization
+        * Dialogue
+        * Translation
+        * QA
+        * Sentence style transfer
+        * data to text
+            * image caption
+        * story generation
+        * general generation
+    * Reasoning (陳柏衡)
+        * mathematical reasoning
+        * commonsense reasoning
+        * logical reasoning
+        * domain-specific reasoning
+    * Robustness, Ethic, Bias, Trustworthiness, Factuality, toxicity (陳柏衡)
+    * Knowledge (陳柏衡)
+      * Social Science
+      * Natural Science and Engineering
+      * Medical Applications
+
+* How to evaluate
+    * Benchmark evaluation (Lala) 
+        * HELM
+        * Big-Bench
+        * MMLU
+        * TruthfulQA
+        * MT-Bench
+        * AlpacaEval
+    * LLM evaluator (彭)
+        * Prompt-based
+            * score-based
+            * probability-based
+            * likert-style
+            * pariwise
+            * ensemble
+            * advanced
+        * tuning-based
+            * probability-based
+            * likert-style
+            * pariwise
+            * advanced
+        * aspects
+            * accuracy, fluency....
+    * Human evaluation
+        * Chatbot Arena
 
 ## LLMs for evaluation
 ### Prompt-based
