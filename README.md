@@ -76,3 +76,10 @@
 - [Shepherd: A Critic for Language Model Generation](https://arxiv.org/abs/2308.04592)
 - [Wider and Deeper LLM Networks are Fairer LLM Evaluators](https://arxiv.org/abs/2308.01862)
 - [Automatic Evaluation of Attribution by Large Language Models](https://arxiv.org/abs/2305.06311)
+
+## Benchmark
+- [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110)
+- [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615)
+
+## Evaluating LLM's alignment 
+- [Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment](https://arxiv.org/abs/2308.05374)
