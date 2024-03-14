@@ -22,9 +22,8 @@
       * Robustness
       * Ehtic
       * Bias
-      * Trustworthiness
       * toxicity
-      * Factuality
+      * Trustworthiness
     * Knowledge
       * Social Science
       * Natural Science and Engineering
