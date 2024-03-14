@@ -33,7 +33,7 @@
 * Evaluation Methods
     * Benchmark evaluation 
         * HELM
-        * Big-Bench
+        * BIG-bench
         * MMLU
         * TruthfulQA
         * MT-Bench
