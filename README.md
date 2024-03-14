@@ -18,7 +18,13 @@
         * commonsense reasoning
         * logical reasoning
         * domain-specific reasoning
-    * Robustness, Ethic, Bias, Trustworthiness, Factuality, toxicity 
+    * Alignment
+      * Robustness
+      * Ehtic
+      * Bias
+      * Trustworthiness
+      * toxicity
+      * Factuality
     * Knowledge
       * Social Science
       * Natural Science and Engineering
