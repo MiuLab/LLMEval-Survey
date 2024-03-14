@@ -2,7 +2,7 @@
 
 ## Paper Structure
 
-* What to evaluate
+* Evaluation Scenarios
     * Natural language generation 
         * Summarization
         * Dialogue
@@ -24,7 +24,7 @@
       * Natural Science and Engineering
       * Medical Applications
 
-* How to evaluate
+* Evaluation Methods
     * Benchmark evaluation 
         * HELM
         * Big-Bench
