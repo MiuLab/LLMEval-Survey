@@ -3,8 +3,7 @@
 ## Paper Structure
 
 * What to evaluate
-    * NLP
-      * Natural language generation 
+    * Natural language generation 
         * Summarization
         * Dialogue
         * Translation
