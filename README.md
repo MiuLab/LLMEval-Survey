@@ -12,10 +12,13 @@
         * Translation
         * QA
         * Sentence style transfer
-        * data to text
-            * image caption
-        * story generation
         * general generation
+        * data to text
+            * image captioning
+            * video captioning
+            * visual question answering
+            * video question answering
+            * story generation
     * Reasoning 
         * mathematical reasoning
         * commonsense reasoning
