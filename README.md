@@ -3,7 +3,7 @@
 ## Paper Structure
 
 * Intro
-    * Why we need LLM eval?
+    * The importance of evaluating LLM
     * Roadmap 
 * Evaluation Scenarios
     * Natural language generation 
