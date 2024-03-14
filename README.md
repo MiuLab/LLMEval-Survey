@@ -4,7 +4,7 @@
 
 * What to evaluate
     * NLP
-      * Natural language generation (程)
+      * Natural language generation 
         * Summarization
         * Dialogue
         * Translation
@@ -14,26 +14,26 @@
             * image caption
         * story generation
         * general generation
-    * Reasoning (陳柏衡)
+    * Reasoning 
         * mathematical reasoning
         * commonsense reasoning
         * logical reasoning
         * domain-specific reasoning
-    * Robustness, Ethic, Bias, Trustworthiness, Factuality, toxicity (陳柏衡)
-    * Knowledge (陳柏衡)
+    * Robustness, Ethic, Bias, Trustworthiness, Factuality, toxicity 
+    * Knowledge
       * Social Science
       * Natural Science and Engineering
       * Medical Applications
 
 * How to evaluate
-    * Benchmark evaluation (Lala) 
+    * Benchmark evaluation 
         * HELM
         * Big-Bench
         * MMLU
         * TruthfulQA
         * MT-Bench
         * AlpacaEval
-    * LLM evaluator (彭)
+    * LLM evaluator
         * Prompt-based
             * score-based
             * probability-based
