@@ -2,6 +2,7 @@
 
 ## Paper Structure
 
+* Intro
 * Evaluation Scenarios
     * Natural language generation 
         * Summarization
