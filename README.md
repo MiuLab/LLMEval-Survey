@@ -6,44 +6,36 @@
     * The importance of evaluating LLM
     * Roadmap 
 * Evaluation Scenarios
-    * Natural language generation 
-        * Summarization
-        * Dialogue
-        * Translation
-        * QA
-        * Sentence style transfer
-        * general generation
-        * data to text
-            * image captioning
-            * video captioning
-            * visual question answering
-            * video question answering
-            * story generation
-    * Reasoning 
-        * mathematical reasoning
-        * commonsense reasoning
-        * logical reasoning
-        * domain-specific reasoning
-    * Alignment
-      * Robustness
-      * Ehtic
-      * Bias
-      * toxicity
-      * Trustworthiness
-    * Knowledge
-      * Social Science
-      * Natural Science and Engineering
-      * Medical Applications
+    * Language evaluation
+       * Reasoning 
+           * mathematical reasoning
+           * commonsense reasoning
+           * logical reasoning
+           * domain-specific reasoning
+       * Safety
+         * Robustness
+         * Ehtic
+         * Bias
+         * toxicity
+         * Trustworthiness
+       * Knowledge
+         * Social Science
+         * Natural Science and Engineering
+         * Medical Applications
+    * Behavior evaluation
+         * code
+         * planning
+         * memory
 
 * Evaluation Methods
-    * Benchmark evaluation 
+    * Ground truth base
         * HELM
         * BIG-bench
         * MMLU
         * TruthfulQA
         * MT-Bench
         * AlpacaEval
-    * LLM evaluator
+    * Score base
         * Prompt-based
             * score-based
             * probability-based
@@ -58,7 +50,7 @@
             * advanced
         * aspects
             * accuracy, fluency....
-    * Human evaluation
+    * Pairwise base
         * Chatbot Arena
 * Conclusion
 
