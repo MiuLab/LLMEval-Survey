@@ -18,7 +18,7 @@
          * Bias
          * toxicity
          * Trustworthiness
-       * Knowledge
+       * Domain Knowledge
          * Social Science
          * Natural Science and Engineering
          * Medical Applications
