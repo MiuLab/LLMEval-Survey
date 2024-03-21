@@ -14,7 +14,7 @@
            * domain-specific reasoning
        * Safety
          * Robustness
-         * Ehtic
+         * Ethic
          * Bias
          * toxicity
          * Trustworthiness
