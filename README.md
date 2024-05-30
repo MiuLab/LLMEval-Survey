@@ -29,7 +29,17 @@
       * Medicine
       * Education
  * Agent Evaluation
-      * 
+      * Planning
+         *  Planning
+         *  Application Scenarios
+            * Web Grounding
+            * Code Generation
+            * Database Queries
+            * API Calls
+            * Tool Creation
+            * Robotic Navigation
+            * Robotic Manipulation 
+         *  Benchmark
 * Conclusion
 
 ## LLMs for evaluation
