@@ -3,55 +3,33 @@
 ## Paper Structure
 
 * Intro
-    * The importance of evaluating LLM
-    * Roadmap 
-* Evaluation Scenarios
-    * Language evaluation
-       * Reasoning 
-           * mathematical reasoning
-           * commonsense reasoning
-           * logical reasoning
-           * domain-specific reasoning
-       * Safety
-         * Robustness
-         * Ethic
-         * Bias
-         * toxicity
-         * Trustworthiness
-       * Domain Knowledge
-         * Social Science
-         * Natural Science and Engineering
-         * Medical Applications
-    * Behavior evaluation
-         * code
-         * planning
-         * memory
-
-* Evaluation Methods
-    * Ground truth base
-        * HELM
-        * BIG-bench
-        * MMLU
-        * TruthfulQA
-        * MT-Bench
-        * AlpacaEval
-    * Score base
-        * Prompt-based
-            * score-based
-            * probability-based
-            * likert-style
-            * pariwise
-            * ensemble
-            * advanced
-        * tuning-based
-            * probability-based
-            * likert-style
-            * pariwise
-            * advanced
-        * aspects
-            * accuracy, fluency....
-    * Pairwise base
-        * Chatbot Arena
+    * Artificial Intelligence and Large Language Model
+    * Why Evaluating LLMs is Important
+    * The Roadmap of Useful LLMs
+    * Study Overview
+* Core Ability Evaluation
+   * Reasoning 
+        * Logical Reasoning
+        * Mathematical Reasoning
+        * Commonsense Reasonin
+        * Multi-hop Reasoning
+        * Structured Data Reasoning
+    * Societal Impact
+      * Safety
+         * Content Safety
+         * Security
+         * Ethical Consideration
+      * Truthfulness
+         * Hallucination
+         * Domain Knowledge
+   * Domain Knowledge
+      * Finance
+      * Legislation
+      * Psychology
+      * Medicine
+      * Education
+ * Agent Evaluation
+      * 
 * Conclusion
 
 ## LLMs for evaluation
