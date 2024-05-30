@@ -2,7 +2,7 @@
 
 ## Paper Structure
 
-* Intro
+* Introduction
     * Artificial Intelligence and Large Language Model
     * Why Evaluating LLMs is Important
     * The Roadmap of Useful LLMs
