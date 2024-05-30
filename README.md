@@ -29,17 +29,22 @@
       * Medicine
       * Education
  * Agent Evaluation
-      * Planning
-         *  Planning
-         *  Application Scenarios
-            * Web Grounding
-            * Code Generation
-            * Database Queries
-            * API Calls
-            * Tool Creation
-            * Robotic Navigation
-            * Robotic Manipulation 
-         *  Benchmark
+   * Planning
+   * Application Scenarios
+      * Web Grounding
+      * Code Generation
+      * Database Queries
+      * API Calls
+      * Tool Creation
+      * Robotic Navigation
+      * Robotic Manipulation 
+   *  Benchmark
+* Future Directions
+   * Dynamic Evaluation
+   * LLMs as Evaluators
+   * Root Cause Analysis
+   * Fine-grained LLM Agent Evaluation
+   * Robot Benchmark Development
 * Conclusion
 
 ## LLMs for evaluation
